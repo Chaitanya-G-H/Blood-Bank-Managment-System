@@ -1,4 +1,3 @@
-# Blood-Bank-Managment-System
 # Blood Bank Management System (BBMS)
 
 ## Project Description
